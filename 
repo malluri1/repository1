@@ -1,0 +1,48 @@
+[33mcommit 289672bdf40fc3cb5a37abf523a3ef78e71a646a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 16:58:23 2018 +0530
+
+    university
+
+[33mcommit 9525d100ea845a53201bcaea94867de61673d490[m
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 16:47:30 2018 +0530
+
+    delete file2
+
+[33mcommit af405ee8d389ddc655389774f963cc2a3c097ca2[m
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 13:38:43 2018 +0530
+
+    message4-5
+
+[33mcommit 1f6c7551c17fb9f25816f39cb95c6599187e83ea[m
+Merge: 6a1e818 800bc2d
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 13:21:04 2018 +0530
+
+    Merge branch 'master' of https://github.com/malluri1/repository1
+
+[33mcommit 6a1e818acccc6fea2513626c1a2bdf7e18c18bda[m
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 13:20:38 2018 +0530
+
+    commit2
+
+[33mcommit 800bc2d2208694d9ecb282e0dd2f7833887a4312[m
+Author: malluri1 <45253513+malluri1@users.noreply.github.com>
+Date:   Thu Nov 22 13:18:47 2018 +0530
+
+    Create file2
+
+[33mcommit 5d0a9e08be145142513be93d6606b97e404131bf[m
+Author: Malluri <prasadlakshmi009@gmail.com>
+Date:   Thu Nov 22 12:48:57 2018 +0530
+
+    first commit
+
+[33mcommit b0ff5285a50b49de91f38e66df2fd01051d9c7dd[m
+Author: malluri1 <45253513+malluri1@users.noreply.github.com>
+Date:   Thu Nov 22 12:08:12 2018 +0530
+
+    Initial commit
